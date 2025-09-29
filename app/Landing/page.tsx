@@ -69,7 +69,7 @@ const guruBio = [
   `With over 15 years of experience, Guru Kathyayani brings a unique perspective: she is also an Electronics Engineering graduate and currently works as a Lead Software Engineer at Latlong, in addition to teaching the Hindustani Diploma course at The Indian Music Experience. Her core teaching philosophy remains simple: every student has a unique voice that needs to be patiently and lovingly nurtured. She is dedicated to building strong foundations, ensuring your lifelong appreciation for the art of music.`,
 ];
 
-export function Landing() {
+export default function Landing() {
   const WHATSAPP_PHONE_NUMBER = "9606009998";
 
   return (
